@@ -8,3 +8,4 @@
 # 6. Pickle file Pipeline
 
 # The deployment branch contains the streamlit version using the model and pipeline as the pickle file.
+# 5. Deployed app.py using Streamlit in another branch named deployment. 
