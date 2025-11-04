@@ -4,8 +4,9 @@
 # 2. Data Pipeline
 # 3. Model Pipeline
 # 4. Model Evaluation
-# 5. Pickle file Model
-# 6. Pickle file Pipeline
-# 7. Deployed app.py using Streamlit in another branch named deployment.
+# 5. Pickle file Model and Pipeline
+# 6. app.py uses streamlit
+# 7. appflask.py creates an api used locally
+# 8. Docker File (Developing)
 
  
